@@ -1,4 +1,4 @@
-# How to play Chess
+# Cách chơi cờ vua
 
-This tutorial covers the rules of chess, and is designed for people who have never played before. If you're new to the game, then this is the place to start. There isn't much here for advanced players, but it could be a useful refresher for people who have not played in a long time, or are confused about one or more rules of the game. If you already know the rules (including castling, en passant and all the ways a game can be drawn) then you can skip this tutorial.
-To get started, click here or select a page from the list below.
+Hướng dẫn này trình bày các luật chơi cờ vua và dành cho những người chưa từng chơi trước đây. Nếu bạn mới làm quen với trò chơi này, hãy bắt đầu từ đây. Nội dung không có nhiều điều dành cho người chơi nâng cao, nhưng có thể giúp những người đã lâu không chơi ôn lại kiến thức hoặc làm rõ một hay nhiều luật chơi còn chưa hiểu. Nếu bạn đã biết các luật (bao gồm nhập thành, bắt tốt qua đường và tất cả các trường hợp ván cờ có thể hòa), bạn có thể bỏ qua hướng dẫn này.
+Để bắt đầu, hãy nhấp vào đây hoặc chọn một trang trong danh sách bên dưới.
